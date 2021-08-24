@@ -1,0 +1,11 @@
+.carousel-item {
+    height: 32rem;
+    background: #6c757d;
+}
+.d-block {
+    height: 25rem;
+}
+
+.carousel {
+    width: 50vh;
+}
